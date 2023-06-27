@@ -37,8 +37,10 @@ Through these analyses, the project aims to contribute to a better understanding
 The data for this project was sourced from the Our World in Data GitHub page, which obtains its data from the World Health Organization (WHO). The COVID-19 dataset used includes information on confirmed cases and deaths. Additionally, population data was acquired from Kaggle to provide context for the analysis.
 
 Please note that the specific links to the datasets can be found below:
-[Kaggle population datsset](https://www.kaggle.com/datasets/rsrishav/world-population?resource=download&select=2023_population.csv)
-[Covid dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
+
+- [Kaggle population dataset](https://www.kaggle.com/datasets/rsrishav/world-population?resource=download&select=2023_population.csv)
+
+- [Covid dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
 
 ## Project Setup:
 
