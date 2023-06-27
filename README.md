@@ -1,4 +1,5 @@
 # Covid19-Analysis
+
 ## Introduction
 The COVID-19 Data Analysis project aims to analyze and derive insights from COVID-19 data using SQL. The data for this analysis was sourced from the Our World in Data GitHub page, which collects data from the World Health Organization (WHO). The project focuses on various aspects of the pandemic, including total confirmed cases, daily new deaths, vaccination administration, ICU occupancy, mortality rates, infection rates, and more.
 
@@ -37,7 +38,7 @@ The data for this project was sourced from the Our World in Data GitHub page, wh
 
 Please note that the specific links to the datasets can be found below:
 [Kaggle population datsset]('https://www.kaggle.com/datasets/rsrishav/world-population?resource=download&select=2023_population.csv')
-[Covid dataset]('https://github.com/owid/covid-19-data/tree/master/public/data')
+(Covid dataset)['https://github.com/owid/covid-19-data/tree/master/public/data']
 
 ## Project Setup:
 
@@ -46,15 +47,21 @@ To set up and replicate the COVID-19 data analysis project, follow these steps:
 ### Tools and Technologies:
 
 **SQL**: Structured Query Language (SQL) is the primary tool used for data analysis in this project.
+
 **MySQL Workbench**: MySQL Workbench is the chosen interface to interact with the MySQL database management system (DBMS) for executing SQL queries and managing the database.
 Database Setup:
 
 **Install MySQL**: Start by installing the MySQL DBMS on your machine. You can download the appropriate version for your operating system from the official MySQL website.
+
 **Create a Database**: Once MySQL is installed, open MySQL Workbench and connect to the MySQL server. Create a new database using a suitable name for your project.
 
 **Data Import**:
 **Download the Data**: Download the COVID-19 dataset files from the Our World in Data GitHub page. Additionally, acquire the population dataset from Kaggle.
+
 **Import Data into Tables**: Use the MySQL Workbench to import the downloaded datasets into their respective tables in the database. Ensure that the table structure matches the data columns.
+
 **SQL Queries**:
+
 **Accessing the Database**: Open MySQL Workbench and connect to the MySQL server. Select the database you created for this project.
+
 **SQL Queries**: Utilize the SQL queries provided in the project repository to perform various analyses on the COVID-19 data. These queries are documented in the repository's documentation.
