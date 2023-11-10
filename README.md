@@ -1,3 +1,4 @@
+NB: Please access the Tableau dashboard here: [Covid Dashboard](https://public.tableau.com/app/profile/quincy.wambui8330/viz/Covid19Dashboard_16986196082800/Dashboard2?publish=yes)
 ## Introduction
 The COVID-19 Data Analysis project uses SQL to analyze and derive insights from COVID-19 data. The data for this analysis was sourced from the [Our World in Data](https://ourworldindata.org/covid-deaths) page, which collects data from the World Health Organization (WHO). The project focuses on various aspects of the pandemic, including total confirmed cases, daily new deaths, mortality, infection rates etc.
 
